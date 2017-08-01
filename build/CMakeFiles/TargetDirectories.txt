@@ -1,0 +1,14 @@
+/home/abhishek/dlib-19.4/build/CMakeFiles/install/strip.dir
+/home/abhishek/dlib-19.4/build/CMakeFiles/install/local.dir
+/home/abhishek/dlib-19.4/build/CMakeFiles/edit_cache.dir
+/home/abhishek/dlib-19.4/build/CMakeFiles/rebuild_cache.dir
+/home/abhishek/dlib-19.4/build/CMakeFiles/list_install_components.dir
+/home/abhishek/dlib-19.4/build/CMakeFiles/install.dir
+/home/abhishek/dlib-19.4/build/dlib/CMakeFiles/install/strip.dir
+/home/abhishek/dlib-19.4/build/dlib/CMakeFiles/install/local.dir
+/home/abhishek/dlib-19.4/build/dlib/CMakeFiles/rebuild_cache.dir
+/home/abhishek/dlib-19.4/build/dlib/CMakeFiles/install.dir
+/home/abhishek/dlib-19.4/build/dlib/CMakeFiles/list_install_components.dir
+/home/abhishek/dlib-19.4/build/dlib/CMakeFiles/dlib.dir
+/home/abhishek/dlib-19.4/build/dlib/CMakeFiles/dlib_shared.dir
+/home/abhishek/dlib-19.4/build/dlib/CMakeFiles/edit_cache.dir
